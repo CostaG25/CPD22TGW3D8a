@@ -1,6 +1,6 @@
 
-![image](images/logo-roma-tre-blu-corretto-500x271.jpg)\
-Magistrale in Ingnegneria Informatica
+<div style="text-align: center;"><img alt="image" src="images/logo-roma-tre-blu-corretto-500x271.jpg"/></div>
+<div style="text-align: center;">***Magistrale in Ingnegneria Informatica*** </div>
 
 
 Calcolo parallelo e distribuito\
@@ -9,10 +9,12 @@ Calcolo parallelo e distribuito\
 
 
 
-Name & Student ID\
-Ennio Malvati & 484998\
-Gianluca Di Lorenzo & 583630\
-Raffaele Scarano & 576304
+
+<table><tr><th style="text-align: left">Nome</th><th style="text-align: left">Matricola</th><th style="text-align: left">E-mail</th><th style="text-align: left">Profilo Github</th></tr><tr>
+<td style="text-align: left">Ennio Malvati</td><td style="text-align: left">484998</td><td style="text-align: left">enn.malvati@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/paolomazzitti">https://github.com/paolomazzitti</a></td></tr><tr>
+<td style="text-align: left">Gianluca Di Lorenzo</td><td style="text-align: left">583630</td><td style="text-align: left">gia.dilorenzo1@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/MatteoColonnello">https://github.com/MatteoColonnello</a></td></tr><tr>
+<td style="text-align: left">Raffaele Scarano</td><td style="text-align: left">576304</td><td style="text-align: left">raf.scarano@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/MartinaFalanga">https://github.com/MartinaFalanga</a></td></tr></table>
+
 
 
 
