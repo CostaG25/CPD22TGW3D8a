@@ -93,9 +93,9 @@ soddisfa le condizioni di compatibilità di confine, che seguono:
   \
   Definizione Spazio di supporto: Lo spazio di supporto  
   |$\Lambda$| di un complesso cellulare è l'insieme dei punti dell'unione  
-  delle proprie celle.\  
-  Una ***p-catena*** può essere vista, forzando il linguaggio, come  
-  una ***collezione di p-celle.***
+  delle proprie celle.\
+  Una p-catena può essere vista, forzando il linguaggio, come  
+  una collezione di p-celle.
 
 ## Catene e Disposizioni
 
@@ -299,8 +299,8 @@ Nel notebook *spatial arrangment 1* sono stati messe tutte le
 ottimizzazioni dovute all'analisi del codice iniziale di *LAR*. Siamo  
 partiti valutando le prestazioni della singola funzione *spatial  
 arrangment 1* con relativa tipicizzazione. Per la valutazione delle  
-prestazioni si è utilizzata la macro *\@btime*, metre per la  
-tipicizzazione abbiamo usato la macro *\@code warntype*. Quest'ultima  
+prestazioni si è utilizzata la macro *@btime*, metre per la  
+tipicizzazione abbiamo usato la macro *@code warntype*. Quest'ultima  
 macro genera una rappresentazione del codice che può essere utile per  
 trovare espressioni che determinano l'incertezza del tipo. Dopo  
 quest'analisi preliminare abbiamo subito migliorato un minimo i tipi di  
@@ -310,7 +310,7 @@ funzioni che sono utilizzate all'interno di *spatial arrangment 1*, che
 sono: *frag faces* e *merge vertices*. Oltre a valutare la  
 tipicizzazione delle due funzioni abbiamo inserito all'interno una  
 parallelizzazione del codice utilizzando due macro: *Threads.@threads* e  
-*\@async*. Una volta migliorate le due funzioni si è andato a verificare  
+*@async*. Una volta migliorate le due funzioni si è andato a verificare  
 se effettivamente, dopo le modifiche da noi apportate, ci sia stato un  
 miglioramento della funzione *spatial arrangment 1*. Si è cercato di  
 testare le funzioni su tutti e tre i nostri calcolatori (due Mac ed un  
@@ -324,18 +324,16 @@ modo, al fine della valutazione delle nostre modifiche al codice si
 rimanda notebook spatial arrangment.
 
 
-9 Alberto Paoluzzi,Vadim Shapiro, Antonio DiCarlo, Giorgio Scorzelli and  
-Elia Onofri *Finite Algebras for Solid Modeling using Julia's Sparse  
-Arrays*. Repository del *Computational Visual Design Lab di Roma Tre*  
-<https://github.com/cvdlab/LinearAlgebraicRepresentation.jl> Il nostro  
-repository  
-<https://github.com/not-Karot/LinearAlgebraicRepresentation.jl>  
-Sengupta, Avik.*Julia High Performance : Optimizations, Distributed  
-Computing, Multithreading, and GPU Programming with Julia 1. 0 and  
-Beyond, 2nd Edition. Birmingham : Packt Publishing, Limited, ©2019*.
 
-[^1]: Si ricordi che con la notazione C si intende il complesso di  
-catene nel campo binario 1,0 e con $C^\circlearrowleft$ si indica il  
-complesso di catene orientato all'interno del campo ternario 0,1,-1  
-in modo da avere confini orientati. Quindi le matrici di confine  
-generate da TGW sono mappe $C_3$ $\longmapsto C_2^\circlearrowleft$.
+# References
+```
+[1] Alberto Paoluzzi,Vadim Shapiro, Antonio DiCarlo, Giorgio Scorzelli and Elia Onofri *Finite Algebras for Solid Modeling using Julia's Sparse  
+Arrays*. 
+[2] Repository del *Computational Visual Design Lab di Roma Tre*  
+<https://github.com/cvdlab/LinearAlgebraicRepresentation.jl> 
+[3] Il nostro repository <https://github.com/not-Karot/LinearAlgebraicRepresentation.jl>
+[4] Sengupta, Avik.*Julia High Performance : Optimizations, Distributed Computing, Multithreading, and GPU Programming with Julia 1. 0 and Beyond, 2nd Edition. Birmingham : Packt Publishing, Limited, ©2019*.  
+```
+
+
+[^1]: Si ricordi che con la notazione C si intende il complesso di catene nel campo binario 1,0 e con $C^\circlearrowleft$ si indica il complesso di catene orientato all'interno del campo ternario 0,1,-1 in modo da avere confini orientati. Quindi le matrici di confine generate da TGW sono mappe $C_3$ $\longmapsto C_2^\circlearrowleft$.
