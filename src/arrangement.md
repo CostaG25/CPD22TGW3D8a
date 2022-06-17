@@ -116,7 +116,7 @@ valutare $A(S)$ come complesso di catene C.\
 Esempio di 3D arrangment\
 
 
-![image](images/Immagine1.png) ![image](images/Immagine2.png)
+<div style="text-align: center;"><img alt="image" src="images/Immagine1.png"/> <img alt="image" src="images/Immagine2.png"/></div>
 
 
 Nelle figure si mostra la disposizione $A(S)$ generata dalla collezione  
@@ -149,7 +149,7 @@ una (p+1)-catena, per cui è un elemento dell'immagine $B_p$ di
 $\delta_(p+1)$. L'insieme $B_p$ è un sottoinsieme del kernel di  
 $\delta_p$, poiché il confine del confine è vuoto.
 
-![image](images/Immagine3.png)
+<div style="text-align: center;"><img alt="image" src="images/Immagine3.png"/></div>
 
 
 **Proprietà** le colonne della matrice $\delta_3^+$ sono 2-cicli.
@@ -211,8 +211,7 @@ spazio d-dimensionale. L'input è la matrice sparsa [$\delta_{d-1}$],
 l'output è la matrice [$\delta_d^+$], dalla d-catena al (d-1)-ciclo  
 orientato.
 
-
-![image](images/Immagine4.png)
+<div style="text-align: center;"><img alt="image" src="images/Immagine4.png"/></div>
 
 
 # Funzioni del progetto
@@ -222,8 +221,7 @@ Dopo un'attenta analisi del repository
 definito il grafo delle dipendenze relativo al progetto a noi assegnato.  
 Il risultato della nostra analisi è la seguente:
 
-
-![image](images/grafo.png)
+<div style="text-align: center;"><img alt="image" src="images/grafo.png"/></div>
 
 
 Si definiranno ora le funzionalità principali della repository utili ai  
