@@ -1,5 +1,5 @@
 
-<center>![image](images/logo-roma-tre-blu-corretto-500x271.jpg)</center>
+![image](images/logo-roma-tre-blu-corretto-500x271.jpg#center)
 ***Magistrale in Ingnegneria Informatica***
 
 
@@ -12,63 +12,6 @@ Calcolo parallelo e distribuito\
 | Ennio Malvati | 484998 | enn.malvati@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
 | Gianluca Di Lorenzo | 583630 | gia.dilorenzo1@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
 | Raffaele Scarano | 576304 | raf.scarano@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
-
-
-<table>
-
-<tbody>
-
-<tr>
-
-<th style="text-align: left">Nome</th>
-
-<th style="text-align: left">Matricola</th>
-
-<th style="text-align: left">E-mail</th>
-
-<th style="text-align: left">Profilo Github</th>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left">Ennio Malvati</td>
-
-<td style="text-align: left">484998</td>
-
-<td style="text-align: left">enn.malvati@stud.uniroma3.it</td>
-
-<td style="text-align: left">[https://github.com/](https://github.com/)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left">Gianluca Di Lorenzo</td>
-
-<td style="text-align: left">583630</td>
-
-<td style="text-align: left">gia.dilorenzo1@stud.uniroma3.it</td>
-
-<td style="text-align: left">[https://github.com/](https://github.com/)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: left">Raffaele Scarano</td>
-
-<td style="text-align: left">576304</td>
-
-<td style="text-align: left">raf.scarano@stud.uniroma3.it</td>
-
-<td style="text-align: left">[https://github.com/](https://github.com/)</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 
 
@@ -170,7 +113,7 @@ valutare $A(S)$ come complesso di catene C.\
 Esempio di 3D arrangment\
 
 
-<div style="text-align: center;"><img alt="image" src="images/Immagine1.png"/> <img alt="image" src="images/Immagine2.png"/></div>
+![image](images/Immagine1.png#center) ![image](images/Immagine2.png#center)
 
 
 Nelle figure si mostra la disposizione $A(S)$ generata dalla collezione  
