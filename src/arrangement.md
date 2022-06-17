@@ -1,6 +1,6 @@
 
-<div style="text-align: center;"><img alt="image" src="images/logo-roma-tre-blu-corretto-500x271.jpg"/></div>
-<div style="text-align: center;">***Magistrale in Ingnegneria Informatica*** </div>
+<center>![image](images/logo-roma-tre-blu-corretto-500x271.jpg)</center>
+***Magistrale in Ingnegneria Informatica***
 
 
 Calcolo parallelo e distribuito\
@@ -10,11 +10,61 @@ Calcolo parallelo e distribuito\
 
 
 
-<table><tr><th style="text-align: left">Nome</th><th style="text-align: left">Matricola</th><th style="text-align: left">E-mail</th><th style="text-align: left">Profilo Github</th></tr><tr>
-<td style="text-align: left">Ennio Malvati</td><td style="text-align: left">484998</td><td style="text-align: left">enn.malvati@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/">https://github.com/</a></td></tr><tr>
-<td style="text-align: left">Gianluca Di Lorenzo</td><td style="text-align: left">583630</td><td style="text-align: left">gia.dilorenzo1@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/">https://github.com/</a></td></tr><tr>
-<td style="text-align: left">Raffaele Scarano</td><td style="text-align: left">576304</td><td style="text-align: left">raf.scarano@stud.uniroma3.it</td><td style="text-align: left"><a href="https://github.com/">https://github.com/</a></td></tr></table>
+<table>
 
+<tbody>
+
+<tr>
+
+<th style="text-align: left">Nome</th>
+
+<th style="text-align: left">Matricola</th>
+
+<th style="text-align: left">E-mail</th>
+
+<th style="text-align: left">Profilo Github</th>
+
+</tr>
+
+<tr>
+
+<td style="text-align: left">Ennio Malvati</td>
+
+<td style="text-align: left">484998</td>
+
+<td style="text-align: left">enn.malvati@stud.uniroma3.it</td>
+
+<td style="text-align: left">[https://github.com/](https://github.com/)</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align: left">Gianluca Di Lorenzo</td>
+
+<td style="text-align: left">583630</td>
+
+<td style="text-align: left">gia.dilorenzo1@stud.uniroma3.it</td>
+
+<td style="text-align: left">[https://github.com/](https://github.com/)</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align: left">Raffaele Scarano</td>
+
+<td style="text-align: left">576304</td>
+
+<td style="text-align: left">raf.scarano@stud.uniroma3.it</td>
+
+<td style="text-align: left">[https://github.com/](https://github.com/)</td>
+
+</tr>
+
+</tbody>
+
+</table>
 
 
 
