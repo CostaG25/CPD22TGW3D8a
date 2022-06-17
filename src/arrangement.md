@@ -7,7 +7,11 @@ Calcolo parallelo e distribuito\
 **LAR - Topological gift wrapping in 3D**\
 *Gruppo 8a*
 
-
+| Nome | Matricola | E-mail | Profilo Github |
+| --- | --- | --- | --- |
+| Ennio Malvati | 484998 | enn.malvati@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
+| Gianluca Di Lorenzo | 583630 | gia.dilorenzo1@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
+| Raffaele Scarano | 576304 | raf.scarano@stud.uniroma3.it | \[https://github.com/\](https://github.com/) |
 
 
 <table>
